@@ -1,2 +1,2 @@
-test:
-  name: config-test
+config:
+  info: "config-dev.yml"
